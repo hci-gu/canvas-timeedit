@@ -1,0 +1,17 @@
+{
+  "name": "canvas-timeedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "ltijs": "^5.9.6",
+    "sqlite3": "^5.1.7"
+  }
+}
